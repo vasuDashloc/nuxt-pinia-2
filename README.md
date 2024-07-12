@@ -1,0 +1,1 @@
+# nuxt-pinia-2
